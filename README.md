@@ -100,4 +100,5 @@ for test coverage. The tooling supports ignoring specific parts of a file
 
 When you run the tests a coverage report will be generated at `./coverage/lcov-report/index.html`
 which you can access in the browser for line by line reporting.
-Created by Jason Heise  https://www.behance.com
+Created by Jason Heise  
+Owned by Jason Heise heisejason-png Giters
